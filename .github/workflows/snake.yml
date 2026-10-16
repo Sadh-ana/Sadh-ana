@@ -5,8 +5,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
       - ".github/workflows/snake.yml"
 
@@ -17,14 +16,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake in Sadhana's palette
+      - name: Generate contribution snake in Sadhana's palette
         uses: Platane/snk@v3
         with:
           github_user_name: Sadh-ana
           outputs: |
             dist/github-snake.svg?color_snake=%23B9A4E8&color_dots=%230D0B10,%2324131D,%236F334D,%23C08A9B,%23E3D8E0
-
-      - name: Publish snake to the output branch
+      - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
