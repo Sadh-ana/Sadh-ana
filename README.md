@@ -1,4 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="./profile-banner.png" alt="Sadhana — building apps, experiments, and games" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Sadhana</h1>
+
+<p align="center">
+  I build and experiment with web apps, AI tools, and games.
+</p>
+
+---
+
+## Featured projects
+
+### Evolve Now
+A personal growth and planning app with dashboards, habits, and adaptive planning features.
+
+[View the code](https://github.com/Sadh-ana/evolve-now-v2 )
+
+### PlayWorlds
+A TypeScript game project with game rules, quests, and tests.
+
+[View the code](https://github.com/Sadh-ana/PlayWorldsV1 )
+
+### Synaptic
+A visual second-brain project built around a canvas for organizing ideas.
+
+[View the code](https://github.com/Sadh-ana/Synaptic- )
+
+---
+
+## Technologies in my projects
+
+JavaScript · TypeScript · Python · Java · React · Next.js
+
 
 <!--
 **Sadh-ana/Sadh-ana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
