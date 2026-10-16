@@ -67,8 +67,16 @@ I'm Sadhana — a curious builder who likes exploring ideas across technology, A
 </p>
 
 <p align="center">
-  <sub>Small steps, consistent curiosity.</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadh-ana&bg_color=0D0B10&color=E3D8E0&title_color=C08A9B&line=B9A4E8&point=C08A9B&area_color=24131D&area=true&hide_border=true&custom_title=Little%20steps%2C%20visible%20progress" width="100%" alt="GitHub contribution activity graph" />
 </p>
+
+### ♡ A little contribution garden
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/output/github-snake.svg" width="100%" alt="Animated snake moving through my GitHub contribution grid" />
+</p>
+
+<p align="center"><sub>The snake updates automatically after the workflow is set up. Small steps, consistent curiosity.</sub></p>
 
 ---
 
