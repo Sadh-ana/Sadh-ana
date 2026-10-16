@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Sadhana — Build, Experiment, Learn, Grow" />
+  <img src="./banner[1].png" width="100%" alt="Sadhana — Build, Experiment, Learn, Grow" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ I don't want to limit myself to one interest. I want to explore, create, and mak
 A personal growth and planning project.
 
 <p align="center">
-  <img src="./evolve-now.png" width="100%" alt="Evolve Now concept artwork" />
+  <img src="./evolve-now[1].png" width="100%" alt="Evolve Now concept artwork" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ A personal growth and planning project.
 A visual space for connecting ideas and organizing knowledge.
 
 <p align="center">
-  <img src="./synaptic.png" width="100%" alt="Synaptic concept artwork" />
+  <img src="./synaptic[1].png" width="100%" alt="Synaptic concept artwork" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ A visual space for connecting ideas and organizing knowledge.
 A game development project exploring interactive worlds and gameplay.
 
 <p align="center">
-  <img src="./playworlds.png" width="100%" alt="PlayWorlds concept artwork" />
+  <img src="./playworlds[1].png" width="100%" alt="PlayWorlds concept artwork" />
 </p>
 
 <p align="center">
