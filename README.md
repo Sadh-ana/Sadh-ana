@@ -85,7 +85,15 @@ A game development project exploring interactive worlds and gameplay.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sadh-ana&background=111014&ring=A78BFA&fire=D7A6B8&currStreakLabel=D7A6B8&sideLabels=C9C0D8&dates=9B91A8&currStreakNum=D7A6B8&sideNums=D7A6B8&border=79334F" width="100%" alt="GitHub contribution streak" />
 </p>
+## ✦ My contributions
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Animated contribution snake"
+  />
+</p>
 ---
 
 <p align="center">
