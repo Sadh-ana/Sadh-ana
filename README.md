@@ -1,7 +1,7 @@
 <!-- Sadhana's GitHub profile README | premium plum / oxblood palette -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/banner.png" width="100%" alt="Sadhana — Build, experiment, learn, grow" />
+  <img src="banner[1].png" width="100%" alt="Sadhana — Build, experiment, learn, grow" />
 </p>
 
 <p align="center">
