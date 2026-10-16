@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./profile-banner.png" alt="Sadhana — building apps, experiments, and games" width="100%" />
+  <img src="./banner.png"
+       width="100%"
+       alt="Sadhana — Build, Experiment, Learn, Grow" />
 </p>
 
 <h1 align="center">Hi, I'm Sadhana</h1>
