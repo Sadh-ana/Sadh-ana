@@ -1,7 +1,7 @@
 <!-- Sadhana's GitHub profile README | premium plum / oxblood palette -->
 
 <p align="center">
-  <img src="banner[1].png" width="100%" alt="Sadhana — Build, experiment, learn, grow" />
+  <img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/banner%5B1%5D.png" width="100%" alt="Sadhana — Build, experiment, learn, grow" />
 </p>
 
 <p align="center">
@@ -27,19 +27,19 @@ I'm Sadhana — a curious builder who likes exploring ideas across technology, A
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://evolvenowv2.vercel.app/"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/evolve-now.png" width="100%" alt="Evolve Now concept artwork" /></a>
+      <a href="https://evolvenowv2.vercel.app/"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/evolve-now%5B1%5D.png" width="100%" alt="Evolve Now concept artwork" /></a>
       <strong><a href="https://evolvenowv2.vercel.app/">Evolve Now ↗</a></strong><br />
       <sub>A personal growth and planning project.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://synaptic-eight.vercel.app/"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/synaptic.png" width="100%" alt="Synaptic concept artwork" /></a>
+      <a href="https://synaptic-eight.vercel.app/"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/synaptic%5B1%5D.png" width="100%" alt="Synaptic concept artwork" /></a>
       <strong><a href="https://synaptic-eight.vercel.app/">Synaptic ↗</a></strong><br />
       <sub>A visual space for connecting ideas and organizing knowledge.</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://github.com/Sadh-ana/PlayWorlds"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/playworlds.png" width="82%" alt="PlayWorlds concept artwork" /></a><br />
+      <a href="https://github.com/Sadh-ana/PlayWorlds"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/playworlds%5B1%5D.png" width="82%" alt="PlayWorlds concept artwork" /></a><br />
       <strong><a href="https://github.com/Sadh-ana/PlayWorlds">PlayWorlds ↗</a></strong><br />
       <sub>A game development project exploring interactive worlds and gameplay.</sub>
     </td>
