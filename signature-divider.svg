@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#24131D"/><stop offset=".5" stop-color="#C08A9B"/><stop offset="1" stop-color="#24131D"/></linearGradient>
+    <radialGradient id="moon"><stop offset="0" stop-color="#E3D8E0"/><stop offset="1" stop-color="#B9A4E8"/></radialGradient>
+  </defs>
+  <rect width="1200" height="110" rx="12" fill="#0D0B10"/>
+  <path d="M20 56 C190 18 290 94 450 55 S720 25 860 56 S1040 88 1180 52" fill="none" stroke="url(#line)" stroke-width="1.5"/>
+  <g fill="#C08A9B"><circle cx="92" cy="34" r="2"/><circle cx="178" cy="76" r="1.6"/><circle cx="328" cy="29" r="1.7"/><circle cx="1030" cy="31" r="1.6"/><circle cx="1102" cy="73" r="2"/><path d="M250 53 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z"/><path d="M952 25 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5z"/></g>
+  <g transform="translate(600 53)">
+    <circle r="24" fill="url(#moon)" opacity=".95"/><circle cx="9" cy="-7" r="22" fill="#0D0B10"/>
+    <g transform="translate(0 1)" fill="#C08A9B" stroke="#E3D8E0" stroke-width=".8">
+      <path d="M-2 0 C-25 -25 -38 -5 -20 8 C-13 13 -6 8 -2 3 C-7 18 -4 23 0 25 C4 23 7 18 2 3 C6 8 13 13 20 8 C38 -5 25 -25 2 0 Z" fill-opacity=".82"/>
+      <path d="M-2 1 L-16 -8 M-3 3 L-19 6 M2 1 L16 -8 M3 3 L19 6 M0 2 L0 19" fill="none" stroke="#24131D" stroke-width="1"/>
+      <circle cx="-2" cy="-2" r="1.7" fill="#E3D8E0" stroke="none"/><circle cx="2" cy="-2" r="1.7" fill="#E3D8E0" stroke="none"/>
+    </g>
+  </g>
+  <g fill="#B9A4E8" font-family="Georgia,serif" font-style="italic" font-size="15"><text x="65" y="97">little steps, every day ✦</text><text x="1010" y="97">same soul, bigger dreams</text></g>
+</svg>
