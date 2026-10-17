@@ -106,9 +106,13 @@ These are tools I've been using across projects and learning. The list is a snap
 
 ### ✧ Little steps, visible progress
 
+
+### ✧ Little steps, visible progress
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadh-ana&bg_color=0D0B10&color=E3D8E0&title_color=C08A9B&line=B9A4E8&point=C08A9B&area=true&hide_border=true&custom_title=Little%20steps%2C%20visible%20progress" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/output/activity-graph.svg" width="100%" alt="GitHub contribution activity graph" />
 </p>
+
 
 ### ☽ The contribution garden
 
@@ -120,5 +124,5 @@ These are tools I've been using across projects and learning. The list is a snap
 ### ✧ GitHub trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sadh-ana&theme=onedark&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=1&column=4" width="100%" alt="GitHub profile trophies" />
+  <img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/profile/trophy.svg" width="100%" alt="GitHub profile trophies" />
 </p>
