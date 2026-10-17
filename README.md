@@ -1,11 +1,11 @@
-<!-- Sadhana's GitHub profile | midnight plum • antique rose • smoky lilac -->
+<!-- Sadhana's moving midnight-plum profile: #0D0B10 #24131D #6F334D #C08A9B #B9A4E8 #E3D8E0 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/banner%5B1%5D.png" width="100%" alt="Sadhana — build, experiment, learn, grow" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:%230D0B10,45:%2324131D,100:%236F334D&text=Sadhana&fontColor=%23E3D8E0&fontSize=54&fontAlignY=38&desc=build%20%E2%80%A2%20experiment%20%E2%80%A2%20learn%20%E2%80%A2%20grow&descAlignY=60&animation=twinkling" width="100%" alt="Animated midnight plum header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=850&color=C08A9B&center=true&vCenter=true&width=720&lines=building+things+I+wish+existed;curious+about+almost+everything;learning+in+public%2C+one+project+at+a+time;same+soul.+bigger+dreams." alt="A rotating introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2800&pause=700&color=C08A9B&center=true&vCenter=true&width=720&lines=building+things+I+wish+existed;curious+about+almost+everything;learning+in+public%2C+one+project+at+a+time;same+soul.+bigger+dreams." alt="Rotating introduction" />
 </p>
 
 <p align="center"><em>Curious by nature. A work in progress by choice.</em></p>
@@ -16,7 +16,7 @@
   <a href="https://github.com/Sadh-ana/PlayWorlds"><img src="https://img.shields.io/badge/⌘_PlayWorlds-EXPLORE-24131D?style=for-the-badge&labelColor=0D0B10&color=B9A4E8" alt="Explore PlayWorlds" /></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/signature-divider.svg" width="100%" alt="Moon and moth signature divider" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/moon-moth-divider.gif" width="100%" alt="Twinkling stars and a fluttering moth beneath a crescent moon" /></p>
 
 ### `~/sadhana` — a tiny terminal window
 
@@ -86,7 +86,7 @@ I'm Sadhana — a curious builder who likes exploring ideas across technology, A
   <img src="https://img.shields.io/badge/Psychology-24131D?style=flat-square&logoColor=B9A4E8" alt="Psychology" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/signature-divider.svg" width="100%" alt="Moon and moth signature divider" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/moon-moth-divider.gif" width="100%" alt="Twinkling stars and a fluttering moth beneath a crescent moon" /></p>
 
 ### ♡ GitHub corner
 
@@ -111,6 +111,9 @@ I'm Sadhana — a curious builder who likes exploring ideas across technology, A
   <img src="https://github-profile-trophy.vercel.app/?username=Sadh-ana&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub profile trophies" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/signature-divider.svg" width="100%" alt="Moon and moth signature divider" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/moon-moth-divider.gif" width="100%" alt="Twinkling stars and a fluttering moth beneath a crescent moon" /></p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:%236F334D,55:%2324131D,100:%230D0B10&animation=twinkling" width="100%" alt="Animated plum wave footer" />
+</p>
 <p align="center"><em>“Not a finished product. Always becoming.”</em><br /><strong>Same soul. Bigger dreams.</strong> ✦</p>
