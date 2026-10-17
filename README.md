@@ -124,5 +124,5 @@ These are tools I've been using across projects and learning. The list is a snap
 ### ✧ GitHub trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/profile/trophy.svg" width="100%" alt="GitHub profile trophies" />
+  <img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/main/profile/trophy.svg" width="70%" alt="GitHub profile trophies" />
 </p>
