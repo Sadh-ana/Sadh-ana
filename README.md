@@ -104,8 +104,6 @@ These are tools I've been using across projects and learning. The list is a snap
 
 ## ♡ GitHub corner
 
-### ✧ Little steps, visible progress
-
 
 ### ✧ Little steps, visible progress
 
