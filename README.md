@@ -104,13 +104,10 @@ These are tools I've been using across projects and learning. The list is a snap
 
 ## ♡ GitHub corner
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadh-ana&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=0D0B10&title_color=C08A9B&text_color=E3D8E0&icon_color=B9A4E8&ring_color=B9A4E8&include_all_commits=true" height="150" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadh-ana&layout=compact&hide_title=true&hide_border=true&bg_color=0D0B10&title_color=C08A9B&text_color=E3D8E0&langs_count=5" height="150" alt="Most-used languages" />
-</p>
+### ✧ Little steps, visible progress
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadh-ana&bg_color=0D0B10&color=E3D8E0&title_color=C08A9B&line=B9A4E8&point=C08A9B&area_color=24131D&area=true&hide_border=true&custom_title=Little%20steps%2C%20visible%20progress" width="96%" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadh-ana&bg_color=0D0B10&color=E3D8E0&title_color=C08A9B&line=B9A4E8&point=C08A9B&area=true&hide_border=true&custom_title=Little%20steps%2C%20visible%20progress" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
 ### ☽ The contribution garden
@@ -119,12 +116,6 @@ These are tools I've been using across projects and learning. The list is a snap
   <img src="https://raw.githubusercontent.com/Sadh-ana/Sadh-ana/output/github-snake.svg" width="94%" alt="Animated snake on the GitHub contribution grid" />
 </p>
 
-
-### ✧ Little steps, visible progress
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadh-ana&bg_color=0D0B10&color=E3D8E0&title_color=C08A9B&line=B9A4E8&point=C08A9B&area=true&hide_border=true&custom_title=Little%20steps%2C%20visible%20progress" width="100%" alt="GitHub contribution activity graph" />
-</p>
 
 ### ✧ GitHub trophies
 
