@@ -1,14 +1,13 @@
 
-name: Generate profile graphics
+name: Generate Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
-    paths:
-      - ".github/workflows/snake.yml"
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -19,21 +18,13 @@ jobs:
 
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Sadh-ana
           outputs: |
-            dist/github-snake.svg?color_snake=%23B9A4E8&color_dots=%230D0B10,%2324131D,%236F334D,%23C08A9B,%23E3D8E0
+            dist/github-snake.svg?color_snake=%23D7A6B8&color_dots=%230D0B10,%23351522,%2379334F,%23A78BFA,%23D7A6B8
 
-      - name: Generate contribution activity graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: Sadh-ana
-          output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          options: "bg_color=0D0B10&color=E3D8E0&title_color=C08A9B&line=B9A4E8&point=C08A9B&area=true&hide_border=true&custom_title=Little%20steps%2C%20visible%20progress"
-
-      - name: Publish both graphics
+      - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
