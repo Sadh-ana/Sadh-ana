@@ -1,0 +1,48 @@
+
+name: Update profile artwork
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: Sadh-ana
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "bg_color=0D0B10&color=E3D8E0&title_color=C08A9B&line=B9A4E8&point=C08A9B&area=true&hide_border=true&custom_title=Little%20steps%2C%20visible%20progress"
+
+      - name: Publish graph to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate profile trophies
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: "username=Sadh-ana&theme=onedark&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true"
+          path: profile/trophy.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+      - name: Save trophy SVG to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/trophy.svg
+          git diff --cached --quiet || (git commit -m "Update profile trophies" && git push)
